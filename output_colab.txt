@@ -1,0 +1,24 @@
+
+# Output - Google Colab
+
+**Stock Price Prediction Results:**
+
+1. **Model Summary:**
+   - LSTM model trained for 5 epochs on stock closing prices.
+   - Used 60-day lookback window to predict next day's price.
+
+2. **Plot:**
+   - Output graph shows the actual vs predicted prices.
+   - Saved as `output.png`.
+
+3. **Prediction Accuracy:**
+   - Mean Squared Error (MSE) calculated to evaluate model.
+   - Close tracking between predicted and actual values indicates successful modeling.
+
+**Files Generated:**
+- `output.png` : Visual comparison between actual and predicted stock prices.
+- `model.h5` (if saved): Trained model for reuse.
+
+**Next Steps:**
+- Evaluate model on real-time data.
+- Improve accuracy by fine-tuning hyperparameters and increasing training epochs.
