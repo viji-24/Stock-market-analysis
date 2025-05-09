@@ -1,6 +1,3 @@
-
-# Output - Google Colab
-
 **Stock Price Prediction Results:**
 
 1. **Model Summary:**
